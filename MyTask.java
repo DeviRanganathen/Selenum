@@ -13,7 +13,7 @@ public class MyTask {
 		WebDriver driver=new ChromeDriver();
 		driver.get("http//www.facebook.com/");
 		driver.getClass();
-		
+		driver.getTitle();
 		
 		
 	
